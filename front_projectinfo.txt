@@ -5,7 +5,7 @@
 <br><br>
 <b>AKARI BitcoinCash Development Goals:</b><br>
 3. <s>Develop the AKARI-PAGES Getting Started Flipbook Guide</s>— DONE! <a href="http://agf.earth/guide/akaripages/">View Guide!</a><br> 
-4. Finish Developing AGF.EARTH Foundation website!<br>
+4. Finish Developing AGF.EARTH Foundation website (v1.0)<br>
 5. Develop Intro to Bitcoin Cash / Getting Started with Bitcoin Cash Flipbook guide.<br>
 6. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY)<br>
 7. Develop AKARI MEDIA PLATFORM (AMP) - support educational projects/media.<br>
@@ -27,7 +27,7 @@
 8. Expand and maintain <a href="http://BitFund.Cash">http://BitFund.Cash</a>.<br>
 9. Integrate AMP into AGF.EARTH.<br>
 10. Work together with BitFund.Cash to expand fundraisers.<br>
-11. Main launch of AKARI GLOBAL FOUNDATION.<br>
+11. <b>Main launch of AKARI GLOBAL FOUNDATION.</b><br>
 
 <br><br>
 
@@ -58,6 +58,6 @@ If you start a project that is educating others about Bitcoin Cash or Bitcoin Ca
  <br><br>
  
 <b>The AKARI GLOBAL FOUNDATION Website</b><br>
-A hub for all things AGF, to replace the temporary page at <a target="nw" href="http://agf.earth">http://agf.earth</a>
- <br><br>
+A hub for all things AGF. <a href="http://agf.earth">http://agf.earth</a>
+<br><br>
 <b>AKARI-TIPJAR and AKARI-VOTE (two upcoming projects depending on bitfund.cash launch & fundraising goals)</b><br>
