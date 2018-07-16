@@ -5,29 +5,29 @@
 <br><br>
 <b>AKARI BitcoinCash Development Goals:</b><br>
 3. <s>Develop the AKARI-PAGES Getting Started Flipbook Guide</s>— DONE! <a href="http://agf.earth/guide/akaripages/">View Guide!</a><br> 
-4. Finish Developing AGF.EARTH Foundation website (v1.0)<br>
+4. <s>Finish Developing AGF.EARTH Foundation website (v1.0)<br></s>- DONE! <a href="http://agf.earth">AGF.EARTH</a>
 5. Develop Intro to Bitcoin Cash / Getting Started with Bitcoin Cash Flipbook guide.<br>
-6. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY)<br>
-7. Develop AKARI MEDIA PLATFORM (AMP) - support educational projects/media.<br>
+6. <s>Develop APB Guide, Bitcoin Cash Crowdfunding Flipbook guide</s>- DONE! <a href="http://agf.earth/guide/apb">APB Guide</a><br>
+7. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY) + another bigger tool TBA.<br>
+8. Develop AKARI MEDIA PLATFORM (AMP) - support educational projects/media. - ADDED to AGF.EARTH, now amplifying <a href="http://startbch.com">http://startbch.com</a><br>
 <br><br>
 <b>Ongoing AKARI BitcoinCash Adoption Goals:</b><br>
-8. Help test and support any new implementations of AKARI-PAY or AKARI-PAGES<br>
-9. Help kickstart your <b>BCH-related project</b> when you use FOSS AKARI-PAY or AKARI-PAGES<Br>
-10. Raise Awareness for BitcoinCash and your BCH-project!<br>
+8. Help test and support any new implementations of AKARI-PAY or AKARI-PAGES<br> <a href="http://agf.earth/guide/apb">APB Guide</a><br>
+9. Help kickstart your <b>BCH-related project</b> when you use FOSS AKARI-PAY or AKARI-PAGES- <a href="http://agf.earth/guide/apb">APB Guide</a><br>
+10. Raise Awareness for BitcoinCash and your BCH-project! - (memo.cash - blockpress.com - yours.org ,etc)<br>
 <br><br>
 
 <h2>How we will spend the DEV-FUND proceeds:</h2>
 1. Time spent developing AKARI-Tools and BCH-Projects.<br>
 2. Meals during office-hours (Lunchbreak meals)<br>
-3. Fees for tools & software: hosting, design, dev, IT.<br>
-4. Help testing & giving support to your project.<br>
-5. Begin work on akari-tipjar.<br>
-6. Prepare official foundation website.<br>
-7. Update and maintain <a href="http://devs.cash">http://devs.cash</a>.<br>
-8. Expand and maintain <a href="http://BitFund.Cash">http://BitFund.Cash</a>.<br>
-9. Integrate AMP into AGF.EARTH.<br>
-10. Work together with BitFund.Cash to expand fundraisers.<br>
-11. <b>Main launch of AKARI GLOBAL FOUNDATION.</b><br>
+3. Fees for tools & software: hosting, design, dev, IT, domains.<br>
+4. Continually help test & give support to your project or initiative.<br>
+5. Continually update official foundation website as new developments come.<br>
+6. Continually update and maintain <a href="http://devs.cash">http://devs.cash</a>.<br>
+7. Expand and maintain <a href="http://BitFund.Cash">http://BitFund.Cash</a>.<br>
+8. <s>Integrate AMP into AGF.EARTH</s>-DONE -now: Amplify more projects.<br>
+9. Continually work together with BitFund.Cash to expand fundraisers.<br>
+10. <b>Main launch of AKARI GLOBAL FOUNDATION.</b><br>
 
 <br><br>
 
@@ -36,11 +36,23 @@
 <b>AKARI-PAY + AKARI-PAY Advanced</b><br>
 AKARI-PAY is what is powering this fundraiser. Anyone can now set up a payment page that works across multiple devices. This increases donation success rates. Now you can easily create your own Donate button or Payment button to accept Bitcoin Cash payments from your website or blog by linking to a simple one-file html.
 <br><br>
+
 AKARI-PAY Advanced has additional features such as color themes, goal bars, multiple goals, fund titles, and feedback after successful donations. We are working on making AKARI-PAY Advanced integrate smoothly with AKARI-PAGES to make setting up your own fundraisers as easy as possible.
 <br><br>
+
 <b>AKARI-PAGES</b><br>
 AKARI-PAGES is a static HTML+Javascript Fundraiser Website (like the one you are reading right now) that makes it possible for anyone to host for free an informative page that leverages 'AKARI-PAY Advanced' to offer successful fundraising campaigns using Bitcoin Cash.
 <br><br>
+
+<b>AKARI-PAGES BUILDER (APB)</b><br>
+AKARI-PAGES Builer is a combo pack of "pages and pay" tools that includes a builder and guide. A mobile-friendly decentralized crowdfunding suite. Everything you need to get started raising funds globally in Bitcoin Cash.
+<br><br>
+
+
+<b>Ongoing AKARI Development Projects</b><br>
+There are several big projects we are working on behind the scenes, tipjar included.
+<br><br>
+
 <b>Further updates of Devs.Cash</b><br>
 <a target="nw" href="http://devs.cash">http://devs.cash</a> is frequently updated listing of many of the happenings in the development side of the Bitcoin Cash ecosystem focusing mainly on Web Apps, and iPhone/Android Applications. The goal of the project is to highlight and support development projects in the Bitcoin Cash Developer Ecosystem. By increasing the network effect we see the value of Bitcoin Cash increasing helping more individuals reach better financial positions.
 <br><br>
