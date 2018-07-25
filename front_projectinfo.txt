@@ -5,16 +5,16 @@
 <br><br>
 <b>AKARI BitcoinCash Development Goals:</b><br>
 3. <s>Develop the AKARI-PAGES Getting Started Flipbook Guide</s>— DONE! <a href="http://agf.earth/guide/akaripages/">View Guide!</a><br> 
-4. <s>Finish Developing AGF.EARTH Foundation website (v1.0)<br></s>- DONE! <a href="http://agf.earth">AGF.EARTH</a>
+4. <s>Finish Developing AGF.EARTH Foundation website (v1.0)<br></s>- DONE! <a href="http://agf.earth">AGF.EARTH</a><br>
 5. Develop Intro to Bitcoin Cash / Getting Started with Bitcoin Cash Flipbook guide.<br>
 6. <s>Develop APB Guide, Bitcoin Cash Crowdfunding Flipbook guide</s>- DONE! <a href="http://agf.earth/guide/apb">APB Guide</a><br>
-7. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY) + another bigger tool TBA.<br>
-8. Develop AKARI MEDIA PLATFORM (AMP) - support educational projects/media. - ADDED to AGF.EARTH, now amplifying <a href="http://startbch.com">http://startbch.com</a><br>
+7. Develop AKARI-VOTE & AKARI-TIPJAR (Two new tools similar to AKARI-PAY) + another bigger tool "SUPPORT" (has taken priority over tipjar/vote).<br>
+8. Develop AKARI MEDIA PLATFORM (AMP) - support educational projects/media. - ADDED to AGF.EARTH, now amplifying <a href="http://startbch.com">http://startbch.com</a></s>- DONE! <a href="http://agf.earth/">AMP on homepage</a><br>
 <br><br>
 <b>Ongoing AKARI BitcoinCash Adoption Goals:</b><br>
-8. Help test and support any new implementations of AKARI-PAY or AKARI-PAGES<br> <a href="http://agf.earth/guide/apb">APB Guide</a><br>
-9. Help kickstart your <b>BCH-related project</b> when you use FOSS AKARI-PAY or AKARI-PAGES- <a href="http://agf.earth/guide/apb">APB Guide</a><br>
-10. Raise Awareness for BitcoinCash and your BCH-project! - (memo.cash - blockpress.com - yours.org ,etc)<br>
+8. Help test and support any new implementations of APB<br> <a href="http://agf.earth/guide/apb">APB Guide</a><br>
+9. Help kickstart your <b>BCH-related project</b> when you use FOSS APB - <a href="http://agf.earth/guide/apb">APB Guide</a><br>
+10. Continually raise Awareness for BitcoinCash and your BCH-project! - (memo.cash - blockpress.com - yours.org ,etc)<br>
 <br><br>
 
 <h2>How we will spend the DEV-FUND proceeds:</h2>
@@ -25,11 +25,20 @@
 5. Continually update official foundation website as new developments come.<br>
 6. Continually update and maintain <a href="http://devs.cash">http://devs.cash</a>.<br>
 7. Expand and maintain <a href="http://BitFund.Cash">http://BitFund.Cash</a>.<br>
-8. <s>Integrate AMP into AGF.EARTH</s>-DONE -now: Amplify more projects.<br>
+8. Integrate AMP into AGF.EARTH - Ongoing<br>
 9. Continually work together with BitFund.Cash to expand fundraisers.<br>
-10. <b>Main launch of AKARI GLOBAL FOUNDATION.</b><br>
-
+10. <b>Main launch of AKARI GLOBAL FOUNDATION.</b><br> <-- next big goal.
+<br><br><br>
+<h2>Fundraising progress:</h2>
+Goal 1: HUGE SUCCESS! THANK YOU! We hit 129% of our first goal of 0.09BCH, funds will be used to further dev work on akaripay, devs.cash, as well as 3 other projects. Thanks to your donations, we can now help with YOUR efforts! <b>- 100% COMPLETED</b>
 <br><br>
+Goal 2: 0.25 BCH - This goal will provide funding to launch multiple Bitcoin Cash ecosystem initiatives: step-by-step guides to using akaripay, getting started with Bitcoin Cash, and help us launch a more polished official foundation website, plus, the creation and launch of BitFund.Cash!<b>- 100% COMPLETED</b>
+<br><br>
+Goal 3: 0.5 BCH - This goal will help kickstart http://BitFund.Cash, help other fundraisers test and launch theirs, encourage visitors to BitFund.Cash to earn by helping raise awareness for fundraisers, help AKARI keep creating additional guides and further work on the foundation homepage that will have each guide listed, details on AKARI projects including the AKARI MEDIA PROGRAM (AMP), ways to get involved, and links to each project page. Helping us reach goal 3 will allow us to move on to the next big goal that will relate to the main launch of AKARI GLOBAL FOUNDATION.<b>- 100% COMPLETED</b>
+<br><br>
+Goal 4: 5BCH - This final goal for the "DEV FUND" will help officially launch the foundation, as all prior AKARI projects and goals should have now been completed or nearing completion thanks to your support. This amount will help us finish APB/Support projects, and provide marketing support and a foundation for us to launch, start future campaigns, and continue working on AKARI and its goals for years to come.
+<br><br>
+
 
 <h3>Projects this fundraiser also supports:</h3>
 
@@ -48,9 +57,8 @@ AKARI-PAGES is a static HTML+Javascript Fundraiser Website (like the one you are
 AKARI-PAGES Builer is a combo pack of "pages and pay" tools that includes a builder and guide. A mobile-friendly decentralized crowdfunding suite. Everything you need to get started raising funds globally in Bitcoin Cash.
 <br><br>
 
-
 <b>Ongoing AKARI Development Projects</b><br>
-There are several big projects we are working on behind the scenes, tipjar included.
+There are several big projects we are working on behind the scenes.
 <br><br>
 
 <b>Further updates of Devs.Cash</b><br>
@@ -67,9 +75,12 @@ Join the <a href="http://webchat.freenode.net/?randomnick=1&channels=%23akari&pr
  
 <b>AKARI Media Platform</b><br>
 If you start a project that is educating others about Bitcoin Cash or Bitcoin Cash related projects tools and services we at AKARI want to help amplify your efforts.
- <br><br>
+<br><br>
  
-<b>The AKARI GLOBAL FOUNDATION Website</b><br>
+<b>"SUPPORT"</b><br>
+A project that helps creators get paid ongoing income for the work they do.
+<br><br>
+
+<b>The AKARI GLOBAL FOUNDATION Website & all Future projects</b><br>
 A hub for all things AGF. <a href="http://agf.earth">http://agf.earth</a>
 <br><br>
-<b>AKARI-TIPJAR and AKARI-VOTE (two upcoming projects depending on bitfund.cash launch & fundraising goals)</b><br>
